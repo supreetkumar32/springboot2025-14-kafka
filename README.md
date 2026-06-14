@@ -13,7 +13,7 @@ change logs.dirs= C:\kakfa\logs
 run command to generate UUID
 C:\kafka\bin\windows>kafka-storage.bat random-uuid
 
-C:\kafka\bin\windows>kafka-storage.bat format -t 6H_NEIZzSmST4VxiP4fw5g -c C:\kafka\config\kraft\server.properties
+C:\kafka\bin\windows>kafka-storage.bat format -t N1gkcqF6SeKPNs5e2Dcn9g -c C:\kafka\config\kraft\server.properties
 
 C:\kafka\bin\windows>kafka-server-start.bat C:\kafka\config\kraft\server.properties
 
